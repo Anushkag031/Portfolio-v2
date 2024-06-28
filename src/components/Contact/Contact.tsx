@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 import emailIcon from "../../assets/email-icon.svg";
-import phoneIcon from "../../assets/phone-icon.svg"
+import phoneIcon from "../../assets/twitter.svg"
 import { Form } from "../Form/Form";
 
 
@@ -20,8 +20,8 @@ export function Contact(){
           <a href="mailto:anushkagupta319@gmail.com">anushkagupta319@gmail.com</a>
         </div>
         <div>
-        <a href="tel:+917905116146"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+9179051161468">(+91)7905116146</a>
+        <a href="https://x.com/Anushkag031"><img src={phoneIcon} alt="Phone No" /></a>
+          <a href="https://x.com/Anushkag031">Connect with me on X.</a>
         </div>  
       </div>
       <Form></Form>

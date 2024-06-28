@@ -2,7 +2,7 @@ import { Container } from './styles'
 import reactIcon from '../../assets/react-icon.svg'
 import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
-import whatsapp from '../../assets/whatsapp.svg'
+import whatsapp from '../../assets/tw.png'
 import instagramIcon from '../../assets/instagram.svg'
 // import discordIcon from '../../assets/discord.png'
 
@@ -35,11 +35,12 @@ export function Footer() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B917905116146&text=Hello+Vinayak"
+          href="https://x.com/Anushkag031"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={whatsapp} alt="Whatsapp" />
+         <img src={whatsapp} alt="Whatsapp" style={{ borderRadius: '50%' }} />
+
         </a>
         
         <a

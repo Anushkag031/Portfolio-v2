@@ -5,7 +5,7 @@ import Illustration from "../../assets/illustration.svg"
 import { NavHashLink } from "react-router-hash-link"
 import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
-import whatsapp from '../../assets/whatsapp.svg'
+import whatsapp from '../../assets/tw.png'
 import Hello from '../../assets/Hello.gif'
 export function Hero() {
   return (
@@ -44,7 +44,7 @@ export function Hero() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B917905116146&text=Hello+Vinayak"
+          href="https://x.com/Anushkag031"
           target="_blank"
           rel="noreferrer"
         >
