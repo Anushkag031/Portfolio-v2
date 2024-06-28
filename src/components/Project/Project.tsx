@@ -16,17 +16,18 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Serverless-Voting-Application" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Anushkag031/threads" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
-                <a href="https://vote.vinayaksingh.com" target="_blank" rel="noreferrer">
+                <a href="https://unigram-one.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a> </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>Unigram - Social Networking website</h3>
+              <p> Developed a full-stack web application using React.js and Next.js, implementing features such as user authentication, file
+uploads, and CRUD operations.. Integrated user authentication and authorization with Clerk.</p>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>Recact</li> <li>Typescript</li> <li>MongoDB</li><li>Clerk</li><li>Uploadthing</li> </ul> </footer>
           </div>
         </ScrollAnimation>
 
@@ -35,23 +36,23 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/AI-Chatbot-Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Anushkag031/geminiClone" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://gemini-clone-byanu.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>Google's Powerfull Gemini AI Clone </h3>
               <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
+              Implemented a Gemini AI clone using React and Tailwind CSS, focusing on creating a responsive and visually appealing user interface. Demonstrated proficiency in frontend development, UI/UX design, and leveraging AI technologies to deliver innovative solutions.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
-                <li>LangChain</li>
+                <li>Reactjs</li>
+                <li>Tailwind CSS</li>
+                <li>Javascript</li>
               </ul>
             </footer>
           </div>
@@ -65,25 +66,25 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/tree/main/Credit%20Risk%20Analysis" target="\_blank" rel="noreferrer">
+                <a href="https://github.com/Anushkag031/anime-web" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/blob/main/Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb" target="\_blank" rel="noreferrer">
+                <a href="https://anistream01.vercel.app/" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Credit Risk Analysis Project</h3>
+              <h3>AnisTeam: Your Ultimate Destination for Anime Enthusiasts</h3>
               <p>
-                Developed a highly accurate credit risk classification model using XGBoost, achieving 100% precision, recall, and F1-scores for predicting loan defaults.Implemented rigorous data preprocessing, feature engineering, and hyperparameter tuning on imbalanced credit risk data, employing ensemble methods, cross-validation, and model interpretation techniques.
+              Developed a dynamic anime website 'AnisTeam' using Next.js and Tailwind CSS, featuring an infinite scroll for seamless content browsing. Leveraged Next.js for server-side rendering and optimized performance
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
+                <li>Nextjs</li>
+                <li>Tailwind CSS</li>
+                <li>React js</li>
               </ul>
             </footer>
           </div>
@@ -94,24 +95,24 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/MediBook-Medical-Appointment-Scheduler-with-Health-History" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Anushkag031/diabetes-prediction-model" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://medibook.vinayaksingh.com" target="_blank" rel="noreferrer">
+                <a href="/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MediBook: Medical Appointment Scheduler with Health History</h3>
-              <p>Developed a secure medical appointment management platform with CRUD functionality, utilizing role-based access control, encryption techniques, and a robust MySQL database with normalized schema design and stored procedures for efficient scheduling, data privacy, and reliable retrieval of patient records.</p>
+              <h3>Developed Machine Learning Model for Diabetes Prediction Using Python</h3>
+              <p>Created a predictive model for diabetes detection utilizing machine learning algorithms in Python. Employed techniques such as data preprocessing, feature selection, and model training using popular libraries like scikit-learn </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>PHP</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>MySQL</li>
+                <li>PythonP</li>
+                <li>Machine Learning</li>
+                <li>Numpy</li>
+                <li>scikit-learn</li>
               </ul>
             </footer>
           </div>
@@ -125,23 +126,25 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Real-Time-Hand-Gesture-Driven-3D-Object-Manipulation" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Anushkag031/dall-e" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://youtu.be/NOm-3MynPLE" target="_blank" rel="noreferrer">
+                <a href="/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Real-Time Hand Gesture-Driven 3D Object Manipulation</h3>
-              <p>Developed a real-time hand gesture recognition system for intuitive 3D object manipulation. Leveraged a multimodal approach integrating OpenCV for video processing, MediaPipe for hand detection/landmark extraction, and scikit-learn for machine learning model training. Achieved 95.2% accuracy in hand gesture classification with efficient real-time performance.</p>
+              <h3>DALL-E-Inspired AI Image Generation App: MERN Stack Implementation</h3>
+              <p>Developed an AI image generation application inspired by DALL-E using the MERN (MongoDB, Express.js, React, Node.js) stack. The application leveraged MongoDB for data storage, Express.js and Node.js for backend API development, and React for frontend user interface.  This project demonstrates my proficiency in full-stack development and AI integration, showcasing innovative applications in visual content generation</p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>OpenCV</li>
-                <li>MediaPipe</li>
-                <li>scikit-learn</li>
+                <li>OpenAi</li>
+                <li>Nodejs</li>
+                <li>Reactjs</li>
+                <li>MongoDB</li>
+                <li>Express js</li>
               </ul>
             </footer>
           </div>
@@ -152,15 +155,18 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://velocityai.vinayaksingh.com/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Anushkag031/weather-app" target="_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" />
+                </a>
+                <a href="https://nimble-creponne-3e6a40.netlify.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>VeloCityAI</h3>
+              <h3>Dynamic Weather App: Real-Time Forecasting with React and Node.js</h3>
               <p>
-                VelocityAI is a website that allows users to get instant answers to any question and generate stunning AI pictures using OpenAI's GPT-3 and DALL-E model.With VelocityAI, users can type in text-based prompts and receive a corresponding response.
+              Developed a weather application using JavaScript for frontend and integration with a weather API. Implemented real-time weather forecasting and displayed accurate information based on user input or location detection. Designed a responsive user interface with HTML, CSS, and Bootstrap, ensuring optimal usability across devices. 
               </p>
             </div>
             <footer>
